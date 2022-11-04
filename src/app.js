@@ -1,19 +1,14 @@
 import express from "express"
-import listLotesController from "./controllers/listLotes.controller";
+import lotesRouter from "./routes/lotes.routes"
 
 const app = express();
 app.use(express.json());
 
-app.get('/', (req, res) => {
-    return res.send('Hello, express!');
-});
 
-app.get('/lotes', listLotesController)
+app.use("/lotes", lotesRouter)
+
 
 const port = 3000;
-
-app.listen(port, ()=>{
+app.listen(port, () => {
     console.log(`App rodando na porta ${port}`);
 });
-
-
