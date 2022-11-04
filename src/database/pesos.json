@@ -1,0 +1,1074 @@
+[
+ {
+   "id": 20,
+   "idade": 4,
+   "peso": 0.094,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "05/09/2022"
+ },
+ {
+   "id": 12,
+   "idade": 4,
+   "peso": 0.112,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 10,
+   "idade": 4,
+   "peso": 0.102,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "05/09/2022"
+ },
+ {
+   "id": 3,
+   "idade": 4,
+   "peso": 0.117,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 17,
+   "idade": 4,
+   "peso": 0.1,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 19,
+   "idade": 4,
+   "peso": 0.098,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "07/09/2022"
+ },
+ {
+   "id": 15,
+   "idade": 4,
+   "peso": 0.099,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "07/09/2022"
+ },
+ {
+   "id": 4,
+   "idade": 4,
+   "peso": 0.093,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "05/09/2022"
+ },
+ {
+   "id": 9,
+   "idade": 4,
+   "peso": 0.107,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 14,
+   "idade": 4,
+   "peso": 0.105,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 8,
+   "idade": 4,
+   "peso": 0.1,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "07/09/2022"
+ },
+ {
+   "id": 11,
+   "idade": 4,
+   "peso": 0.101,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "05/09/2022"
+ },
+ {
+   "id": 2,
+   "idade": 4,
+   "peso": 0.106,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "05/09/2022"
+ },
+ {
+   "id": 1,
+   "idade": 4,
+   "peso": 0.097,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 6,
+   "idade": 4,
+   "peso": 0.1,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "06/09/2022"
+ },
+ {
+   "id": 4,
+   "idade": 7,
+   "peso": 0.162,
+   "amostra": 1,
+   "ca": 0.942,
+   "dataPeso": "08/09/2022"
+ },
+ {
+   "id": 20,
+   "idade": 7,
+   "peso": 0.162,
+   "amostra": 1,
+   "ca": 1.016,
+   "dataPeso": "08/09/2022"
+ },
+ {
+   "id": 10,
+   "idade": 7,
+   "peso": 0.184,
+   "amostra": 1,
+   "ca": 0.915,
+   "dataPeso": "08/09/2022"
+ },
+ {
+   "id": 17,
+   "idade": 7,
+   "peso": 0.186,
+   "amostra": 1,
+   "ca": 0.82,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 15,
+   "idade": 7,
+   "peso": 0.175,
+   "amostra": 1,
+   "ca": 0.906,
+   "dataPeso": "10/09/2022"
+ },
+ {
+   "id": 3,
+   "idade": 7,
+   "peso": 0.202,
+   "amostra": 1,
+   "ca": 0.872,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 12,
+   "idade": 7,
+   "peso": 0.19,
+   "amostra": 1,
+   "ca": 0.841,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 11,
+   "idade": 7,
+   "peso": 0.182,
+   "amostra": 1,
+   "ca": 0.976,
+   "dataPeso": "08/09/2022"
+ },
+ {
+   "id": 6,
+   "idade": 7,
+   "peso": 0.172,
+   "amostra": 1,
+   "ca": 0.95,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 19,
+   "idade": 7,
+   "peso": 0.17,
+   "amostra": 1,
+   "ca": 0.935,
+   "dataPeso": "10/09/2022"
+ },
+ {
+   "id": 18,
+   "idade": 4,
+   "peso": 0.1,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "10/09/2022"
+ },
+ {
+   "id": 13,
+   "idade": 4,
+   "peso": 0.102,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "10/09/2022"
+ },
+ {
+   "id": 1,
+   "idade": 7,
+   "peso": 0.16,
+   "amostra": 1,
+   "ca": 1.002,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 2,
+   "idade": 7,
+   "peso": 0.19,
+   "amostra": 1,
+   "ca": 0.904,
+   "dataPeso": "08/09/2022"
+ },
+ {
+   "id": 8,
+   "idade": 7,
+   "peso": 0.184,
+   "amostra": 1,
+   "ca": 1.04,
+   "dataPeso": "10/09/2022"
+ },
+ {
+   "id": 14,
+   "idade": 7,
+   "peso": 0.175,
+   "amostra": 1,
+   "ca": 0.97,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 16,
+   "idade": 4,
+   "peso": 0.119,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "10/09/2022"
+ },
+ {
+   "id": 5,
+   "idade": 7,
+   "peso": 0.185,
+   "amostra": 1,
+   "ca": 0.845,
+   "dataPeso": "12/09/2022"
+ },
+ {
+   "id": 5,
+   "idade": 4,
+   "peso": 0.091,
+   "amostra": 1,
+   "ca": 0,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 9,
+   "idade": 7,
+   "peso": 0.178,
+   "amostra": 1,
+   "ca": 1.083,
+   "dataPeso": "09/09/2022"
+ },
+ {
+   "id": 13,
+   "idade": 7,
+   "peso": 0.184,
+   "amostra": 1,
+   "ca": 0.98,
+   "dataPeso": "13/09/2022"
+ },
+ {
+   "id": 18,
+   "idade": 7,
+   "peso": 0.17,
+   "amostra": 1,
+   "ca": 0.962,
+   "dataPeso": "13/09/2022"
+ },
+ {
+   "id": 16,
+   "idade": 7,
+   "peso": 0.204,
+   "amostra": 1,
+   "ca": 1.01,
+   "dataPeso": "13/09/2022"
+ },
+ {
+   "id": 3,
+   "idade": 14,
+   "peso": 0.55,
+   "amostra": 1,
+   "ca": 0.921,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 17,
+   "idade": 14,
+   "peso": 0.465,
+   "amostra": 1,
+   "ca": 1.194,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 12,
+   "idade": 14,
+   "peso": 0.521,
+   "amostra": 1,
+   "ca": 0.91,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 15,
+   "idade": 14,
+   "peso": 0.465,
+   "amostra": 1,
+   "ca": 1.135,
+   "dataPeso": "17/09/2022"
+ },
+ {
+   "id": 19,
+   "idade": 14,
+   "peso": 0.465,
+   "amostra": 1,
+   "ca": 1.035,
+   "dataPeso": "17/09/2022"
+ },
+ {
+   "id": 20,
+   "idade": 14,
+   "peso": 0.45,
+   "amostra": 1,
+   "ca": 1.182,
+   "dataPeso": "15/09/2022"
+ },
+ {
+   "id": 2,
+   "idade": 14,
+   "peso": 0.421,
+   "amostra": 1,
+   "ca": 1.112,
+   "dataPeso": "15/09/2022"
+ },
+ {
+   "id": 1,
+   "idade": 14,
+   "peso": 0.415,
+   "amostra": 1,
+   "ca": 1.28,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 9,
+   "idade": 14,
+   "peso": 0.478,
+   "amostra": 1,
+   "ca": 1.106,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 5,
+   "idade": 14,
+   "peso": 0.446,
+   "amostra": 1,
+   "ca": 1.148,
+   "dataPeso": "19/09/2022"
+ },
+ {
+   "id": 11,
+   "idade": 14,
+   "peso": 0.456,
+   "amostra": 1,
+   "ca": 1.201,
+   "dataPeso": "15/09/2022"
+ },
+ {
+   "id": 8,
+   "idade": 14,
+   "peso": 0.48,
+   "amostra": 1,
+   "ca": 1.215,
+   "dataPeso": "17/09/2022"
+ },
+ {
+   "id": 4,
+   "idade": 14,
+   "peso": 0.465,
+   "amostra": 1,
+   "ca": 1.176,
+   "dataPeso": "15/09/2022"
+ },
+ {
+   "id": 6,
+   "idade": 14,
+   "peso": 0.424,
+   "amostra": 1,
+   "ca": 1.169,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 16,
+   "idade": 14,
+   "peso": 0.505,
+   "amostra": 1,
+   "ca": 1.18,
+   "dataPeso": "20/09/2022"
+ },
+ {
+   "id": 13,
+   "idade": 14,
+   "peso": 0.459,
+   "amostra": 1,
+   "ca": 1.089,
+   "dataPeso": "20/09/2022"
+ },
+ {
+   "id": 18,
+   "idade": 14,
+   "peso": 0.432,
+   "amostra": 1,
+   "ca": 1.116,
+   "dataPeso": "20/09/2022"
+ },
+ {
+   "id": 20,
+   "idade": 21,
+   "peso": 0.88,
+   "amostra": 1,
+   "ca": 1.304,
+   "dataPeso": "22/09/2022"
+ },
+ {
+   "id": 10,
+   "idade": 21,
+   "peso": 0.96,
+   "amostra": 1,
+   "ca": 1.28,
+   "dataPeso": "22/09/2022"
+ },
+ {
+   "id": 17,
+   "idade": 21,
+   "peso": 0.895,
+   "amostra": 1,
+   "ca": 1.227,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 11,
+   "idade": 21,
+   "peso": 0.859,
+   "amostra": 1,
+   "ca": 1.23,
+   "dataPeso": "22/09/2022"
+ },
+ {
+   "id": 6,
+   "idade": 21,
+   "peso": 0.88,
+   "amostra": 1,
+   "ca": 1.32,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 4,
+   "idade": 21,
+   "peso": 0.973,
+   "amostra": 1,
+   "ca": 1.299,
+   "dataPeso": "22/09/2022"
+ },
+ {
+   "id": 2,
+   "idade": 21,
+   "peso": 0.828,
+   "amostra": 1,
+   "ca": 1.3,
+   "dataPeso": "22/09/2022"
+ },
+ {
+   "id": 15,
+   "idade": 21,
+   "peso": 0.93,
+   "amostra": 1,
+   "ca": 1.332,
+   "dataPeso": "24/09/2022"
+ },
+ {
+   "id": 19,
+   "idade": 21,
+   "peso": 0.933,
+   "amostra": 1,
+   "ca": 1.383,
+   "dataPeso": "24/09/2022"
+ },
+ {
+   "id": 14,
+   "idade": 21,
+   "peso": 0.967,
+   "amostra": 1,
+   "ca": 1.23,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 12,
+   "idade": 21,
+   "peso": 1.006,
+   "amostra": 1,
+   "ca": 1.299,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 9,
+   "idade": 21,
+   "peso": 1.005,
+   "amostra": 1,
+   "ca": 1.202,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 1,
+   "idade": 21,
+   "peso": 0.883,
+   "amostra": 1,
+   "ca": 1.324,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 5,
+   "idade": 21,
+   "peso": 0.953,
+   "amostra": 1,
+   "ca": 1.26,
+   "dataPeso": "26/09/2022"
+ },
+ {
+   "id": 8,
+   "idade": 21,
+   "peso": 1,
+   "amostra": 1,
+   "ca": 1.32,
+   "dataPeso": "24/09/2022"
+ },
+ {
+   "id": 3,
+   "idade": 21,
+   "peso": 1.07,
+   "amostra": 1,
+   "ca": 1.192,
+   "dataPeso": "23/09/2022"
+ },
+ {
+   "id": 18,
+   "idade": 21,
+   "peso": 0.883,
+   "amostra": 1,
+   "ca": 1.326,
+   "dataPeso": "27/09/2022"
+ },
+ {
+   "id": 13,
+   "idade": 21,
+   "peso": 0.966,
+   "amostra": 1,
+   "ca": 1.266,
+   "dataPeso": "27/09/2022"
+ },
+ {
+   "id": 16,
+   "idade": 21,
+   "peso": 0.983,
+   "amostra": 1,
+   "ca": 1.17,
+   "dataPeso": "27/09/2022"
+ },
+ {
+   "id": 17,
+   "idade": 28,
+   "peso": 1.46,
+   "amostra": 1,
+   "ca": 1.464,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 20,
+   "idade": 28,
+   "peso": 1.498,
+   "amostra": 1,
+   "ca": 1.418,
+   "dataPeso": "29/09/2022"
+ },
+ {
+   "id": 15,
+   "idade": 28,
+   "peso": 1.48,
+   "amostra": 1,
+   "ca": 1.485,
+   "dataPeso": "01/10/2022"
+ },
+ {
+   "id": 4,
+   "idade": 28,
+   "peso": 1.618,
+   "amostra": 1,
+   "ca": 1.415,
+   "dataPeso": "29/09/2022"
+ },
+ {
+   "id": 19,
+   "idade": 28,
+   "peso": 1.47,
+   "amostra": 1,
+   "ca": 1.448,
+   "dataPeso": "01/10/2022"
+ },
+ {
+   "id": 1,
+   "idade": 28,
+   "peso": 1.584,
+   "amostra": 1,
+   "ca": 1.392,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 2,
+   "idade": 28,
+   "peso": 1.453,
+   "amostra": 1,
+   "ca": 1.383,
+   "dataPeso": "29/09/2022"
+ },
+ {
+   "id": 14,
+   "idade": 28,
+   "peso": 1.57,
+   "amostra": 1,
+   "ca": 1.441,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 11,
+   "idade": 28,
+   "peso": 1.461,
+   "amostra": 1,
+   "ca": 1.306,
+   "dataPeso": "29/09/2022"
+ },
+ {
+   "id": 6,
+   "idade": 28,
+   "peso": 1.571,
+   "amostra": 1,
+   "ca": 1.41,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 8,
+   "idade": 28,
+   "peso": 1.63,
+   "amostra": 1,
+   "ca": 1.51,
+   "dataPeso": "01/10/2022"
+ },
+ {
+   "id": 3,
+   "idade": 28,
+   "peso": 1.78,
+   "amostra": 1,
+   "ca": 1.368,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 5,
+   "idade": 28,
+   "peso": 1.575,
+   "amostra": 1,
+   "ca": 1.387,
+   "dataPeso": "03/10/2022"
+ },
+ {
+   "id": 9,
+   "idade": 28,
+   "peso": 1.636,
+   "amostra": 1,
+   "ca": 1.376,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 10,
+   "idade": 28,
+   "peso": 1.605,
+   "amostra": 1,
+   "ca": 1.395,
+   "dataPeso": "29/09/2022"
+ },
+ {
+   "id": 12,
+   "idade": 28,
+   "peso": 1.64,
+   "amostra": 1,
+   "ca": 1.339,
+   "dataPeso": "30/09/2022"
+ },
+ {
+   "id": 18,
+   "idade": 28,
+   "peso": 1.435,
+   "amostra": 1,
+   "ca": 1.42,
+   "dataPeso": "04/10/2022"
+ },
+ {
+   "id": 13,
+   "idade": 28,
+   "peso": 1.576,
+   "amostra": 1,
+   "ca": 1.416,
+   "dataPeso": "04/10/2022"
+ },
+ {
+   "id": 16,
+   "idade": 28,
+   "peso": 1.677,
+   "amostra": 1,
+   "ca": 1.414,
+   "dataPeso": "04/10/2022"
+ },
+ {
+   "id": 4,
+   "idade": 35,
+   "peso": 2.41,
+   "amostra": 1,
+   "ca": 1.57,
+   "dataPeso": "06/10/2022"
+ },
+ {
+   "id": 20,
+   "idade": 35,
+   "peso": 2.089,
+   "amostra": 1,
+   "ca": 1.584,
+   "dataPeso": "06/10/2022"
+ },
+ {
+   "id": 10,
+   "idade": 35,
+   "peso": 2.315,
+   "amostra": 1,
+   "ca": 1.498,
+   "dataPeso": "06/10/2022"
+ },
+ {
+   "id": 17,
+   "idade": 35,
+   "peso": 2.1,
+   "amostra": 1,
+   "ca": 1.584,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 9,
+   "idade": 35,
+   "peso": 2.43,
+   "amostra": 1,
+   "ca": 1.445,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 19,
+   "idade": 35,
+   "peso": 2.505,
+   "amostra": 1,
+   "ca": 1.543,
+   "dataPeso": "08/10/2022"
+ },
+ {
+   "id": 3,
+   "idade": 35,
+   "peso": 2.527,
+   "amostra": 1,
+   "ca": 1.449,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 15,
+   "idade": 35,
+   "peso": 2.22,
+   "amostra": 1,
+   "ca": 1.519,
+   "dataPeso": "08/10/2022"
+ },
+ {
+   "id": 12,
+   "idade": 35,
+   "peso": 2.25,
+   "amostra": 1,
+   "ca": 1.495,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 14,
+   "idade": 35,
+   "peso": 2.34,
+   "amostra": 1,
+   "ca": 1.56,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 2,
+   "idade": 35,
+   "peso": 2.18,
+   "amostra": 1,
+   "ca": 1.537,
+   "dataPeso": "06/10/2022"
+ },
+ {
+   "id": 6,
+   "idade": 35,
+   "peso": 2.377,
+   "amostra": 1,
+   "ca": 1.54,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 11,
+   "idade": 35,
+   "peso": 2.114,
+   "amostra": 1,
+   "ca": 1.499,
+   "dataPeso": "06/10/2022"
+ },
+ {
+   "id": 1,
+   "idade": 35,
+   "peso": 2.31,
+   "amostra": 1,
+   "ca": 1.56,
+   "dataPeso": "07/10/2022"
+ },
+ {
+   "id": 5,
+   "idade": 35,
+   "peso": 2.196,
+   "amostra": 1,
+   "ca": 1.412,
+   "dataPeso": "10/10/2022"
+ },
+ {
+   "id": 14,
+   "idade": 14,
+   "peso": 0.437,
+   "amostra": 1,
+   "ca": 1.18,
+   "dataPeso": "16/09/2022"
+ },
+ {
+   "id": 8,
+   "idade": 35,
+   "peso": 2.4,
+   "amostra": 1,
+   "ca": 1.61,
+   "dataPeso": "08/10/2022"
+ },
+ {
+   "id": 10,
+   "idade": 14,
+   "peso": 0.447,
+   "amostra": 1,
+   "ca": 1.1,
+   "dataPeso": "15/09/2022"
+ },
+ {
+   "id": 16,
+   "idade": 35,
+   "peso": 2.314,
+   "amostra": 1,
+   "ca": 1.573,
+   "dataPeso": "11/10/2022"
+ },
+ {
+   "id": 18,
+   "idade": 35,
+   "peso": 2.09,
+   "amostra": 1,
+   "ca": 1.512,
+   "dataPeso": "11/10/2022"
+ },
+ {
+   "id": 13,
+   "idade": 35,
+   "peso": 2.341,
+   "amostra": 1,
+   "ca": 1.586,
+   "dataPeso": "11/10/2022"
+ },
+ {
+   "id": 19,
+   "idade": 35,
+   "peso": 2.205,
+   "amostra": 1,
+   "ca": 1.543,
+   "dataPeso": "08/10/2022"
+ },
+ {
+   "id": 4,
+   "idade": 42,
+   "peso": 3.23,
+   "amostra": 1,
+   "ca": 1.605,
+   "dataPeso": "13/10/2022"
+ },
+ {
+   "id": 20,
+   "idade": 42,
+   "peso": 2.693,
+   "amostra": 1,
+   "ca": 1.63,
+   "dataPeso": "13/10/2022"
+ },
+ {
+   "id": 10,
+   "idade": 42,
+   "peso": 3.145,
+   "amostra": 1,
+   "ca": 1.58,
+   "dataPeso": "13/10/2022"
+ },
+ {
+   "id": 2,
+   "idade": 42,
+   "peso": 2.754,
+   "amostra": 1,
+   "ca": 1.734,
+   "dataPeso": "13/10/2022"
+ },
+ {
+   "id": 11,
+   "idade": 42,
+   "peso": 2.682,
+   "amostra": 1,
+   "ca": 1.712,
+   "dataPeso": "13/10/2022"
+ },
+ {
+   "id": 17,
+   "idade": 42,
+   "peso": 2.75,
+   "amostra": 1,
+   "ca": 1.681,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 15,
+   "idade": 42,
+   "peso": 3.17,
+   "amostra": 1,
+   "ca": 1.623,
+   "dataPeso": "15/10/2022"
+ },
+ {
+   "id": 9,
+   "idade": 42,
+   "peso": 3.4,
+   "amostra": 1,
+   "ca": 1.487,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 14,
+   "idade": 42,
+   "peso": 3.11,
+   "amostra": 1,
+   "ca": 1.598,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 19,
+   "idade": 42,
+   "peso": 3.126,
+   "amostra": 1,
+   "ca": 1.654,
+   "dataPeso": "15/10/2022"
+ },
+ {
+   "id": 3,
+   "idade": 42,
+   "peso": 3.509,
+   "amostra": 1,
+   "ca": 1.627,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 5,
+   "idade": 42,
+   "peso": 2.95,
+   "amostra": 1,
+   "ca": 1.69,
+   "dataPeso": "17/10/2022"
+ },
+ {
+   "id": 12,
+   "idade": 42,
+   "peso": 2.916,
+   "amostra": 1,
+   "ca": 1.679,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 8,
+   "idade": 42,
+   "peso": 3.1,
+   "amostra": 1,
+   "ca": 1.71,
+   "dataPeso": "15/10/2022"
+ },
+ {
+   "id": 1,
+   "idade": 42,
+   "peso": 3.253,
+   "amostra": 1,
+   "ca": 1.6,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 6,
+   "idade": 42,
+   "peso": 3.164,
+   "amostra": 1,
+   "ca": 1.66,
+   "dataPeso": "14/10/2022"
+ },
+ {
+   "id": 13,
+   "idade": 42,
+   "peso": 3.085,
+   "amostra": 1,
+   "ca": 1.686,
+   "dataPeso": "18/10/2022"
+ },
+ {
+   "id": 16,
+   "idade": 42,
+   "peso": 3.049,
+   "amostra": 1,
+   "ca": 1.698,
+   "dataPeso": "18/10/2022"
+ },
+ {
+   "id": 18,
+   "idade": 42,
+   "peso": 2.518,
+   "amostra": 1,
+   "ca": 1.78,
+   "dataPeso": "18/10/2022"
+ }
+]
