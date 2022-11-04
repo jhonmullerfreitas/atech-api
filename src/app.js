@@ -8,6 +8,7 @@ app.use(express.json());
 
 app.use("/lotes", lotesRouter);
 app.use("/pesos", pesosRouter);
+app.use("/mortalidades", pesosRouter);
 
 
 const port = 3000;
