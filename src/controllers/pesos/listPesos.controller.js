@@ -1,4 +1,4 @@
-import listPesosService from "../services/listPesos.service";
+import listPesosService from "../../services/pesos/listPesos.service";
 
 const listPesosController = (request, response) =>{
     const pesos = listPesosService();

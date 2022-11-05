@@ -1,10 +1,8 @@
 import { Router } from "express";
 
-import listLotesController from "../controllers/listLotes.controller";
-
+import listLotesController from "../controllers/lotes/listLotes.controller";
 
 const router = Router()
-
 
 router.get('', listLotesController)
 

@@ -1,10 +1,8 @@
 import { Router } from "express";
 
-import listMortalidadesController from "../controllers/listMortalidades.controller";
-
+import listMortalidadesController from "../controllers/mortalidades/listMortalidades.controller";
 
 const router = Router()
-
 
 router.get('', listMortalidadesController)
 

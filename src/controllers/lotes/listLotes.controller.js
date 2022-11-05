@@ -1,4 +1,4 @@
-import listLotesService from "../services/listLotes.service"
+import listLotesService from "../../services/lotes/listLotes.service"
 
 const listLotesController = (request, response) =>{
     const lotes = listLotesService()
