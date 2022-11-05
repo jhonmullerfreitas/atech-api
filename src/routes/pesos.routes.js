@@ -1,6 +1,6 @@
 import { Router } from "express";
 
-import listPesosController from "../controllers/listPesos.controller";
+import listPesosController from "../controllers/pesos/listPesos.controller";
 
 const router = Router();
 
