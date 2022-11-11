@@ -1,0 +1,19 @@
+{
+  "name": "atech-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jhonmullerfreitas/atech-api.git",
+  "author": "Jhon Muller <jmuller.jhon80@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "sucrase": "^3.28.0"
+  },
+  "scripts": {
+    "dev": "nodemon ./src/app.js"
+  }
+}
