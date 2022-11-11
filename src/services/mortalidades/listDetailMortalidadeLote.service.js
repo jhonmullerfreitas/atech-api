@@ -19,8 +19,20 @@ const listDetailMortalidadeLoteService = (id) =>{
         );
     });
 
+    listMortalidadesLote.sort(function (a, b) {
+        if (parseInt(a.dataAcomp.split("/").reverse().join("")) > parseInt(b.dataAcomp.split("/").reverse().join(""))) {
+            return 1;
+        }
+        if (parseInt(a.dataAcomp.split("/").reverse().join("")) < parseInt(b.dataAcomp.split("/").reverse().join(""))) {
+            return -1;
+        }
+        return 0;
+    });
+    
+    const mortes = listMortalidades.map((element)=> element.mortalidade)
+    const datas = listMortalidades.map((element)=> element.dataAcomp)
 
-    return [{idLote: id}, [...listMortalidadesLote]]
+    return [{idLote: id}, [...listMortalidadesLote], mortes, datas]
 }
 
 export default listDetailMortalidadeLoteService;
