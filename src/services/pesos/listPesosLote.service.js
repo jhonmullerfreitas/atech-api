@@ -18,7 +18,11 @@ const listPesosLoteService = (id) => {
         )
     })
 
-    return [{idLote: id}, [...listPesosLote]]
+    const pesosLote = listPesosLote.map((element)=> element.peso)
+    const datas = listPesosLote.map((element)=> element.dataColet)
+    
+
+    return [{idLote: id}, [...listPesosLote], pesosLote, datas]
 }
 
 export default listPesosLoteService;
