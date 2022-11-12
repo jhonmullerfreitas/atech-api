@@ -23,7 +23,6 @@ const infoGranjaService = () =>{
     const aspRuim = lotes.filter((lote)=> lote.aspectoLote === "Ruim").length
 
     return {qtdLotes: qtdLotes, avesFem: totalAvesFem, avesMasc: totalAvesMasc, dark: qtdDark, semiDark: qtdSemiDark, gAuto: qtdAuto, aspBom: aspBom, aspRegular: aspRegular, aspRuim: aspRuim}
-
 }
 
 export default infoGranjaService;

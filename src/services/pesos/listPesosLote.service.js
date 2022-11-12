@@ -8,7 +8,6 @@ const listPesosLoteService = (id) => {
     }
 
     const listPesos = pesos.filter((element) => element.id === parseInt(id))
-
     const listPesosLote = listPesos.map((element) => {
         return(
             {
@@ -21,7 +20,6 @@ const listPesosLoteService = (id) => {
     const pesosLote = listPesosLote.map((element)=> element.peso)
     const datas = listPesosLote.map((element)=> element.dataColet)
     
-
     return [{idLote: id}, [...listPesosLote], pesosLote, datas]
 }
 

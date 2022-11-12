@@ -5,5 +5,4 @@ const router = Router();
 
 router.get("", infoGranjaController);
 
-
 export default router;

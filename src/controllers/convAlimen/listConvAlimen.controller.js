@@ -2,9 +2,7 @@ import listConvAlimenLoteService from "../../services/convAlimen/listConvAlimenL
 
 const listConversaoAlimentarController = (request, response) => {
   const { id } = request.params;
-
   const convAlimenPorLote = listConvAlimenLoteService(id);
-
   return response.json(convAlimenPorLote);
 };
 

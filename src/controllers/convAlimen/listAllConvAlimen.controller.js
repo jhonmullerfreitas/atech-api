@@ -2,7 +2,6 @@ import listAllConvAlimenService from "../../services/convAlimen/listAllConvAlime
 
 const listAllConvAlimenController = (request, response) => {
   const allConvAlimen = listAllConvAlimenService();
-
   return response.json(allConvAlimen);
 };
 

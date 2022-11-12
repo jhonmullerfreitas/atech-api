@@ -2,7 +2,6 @@ import listMortalidadesService from "../../services/mortalidades/listMortalidade
 
 const listMortalidadesController = (request, response) =>{
     const mortalidade = listMortalidadesService()
-
     return response.json(mortalidade)
 }
 

@@ -32,7 +32,7 @@ const pesoMedioSexoService = () =>{
     const pesoMedioMasculino = totalPesoMasculino / (pesosLotesMasculino.length)
     const pesoMedioFeminino = totalPesoFeminino / (pesosLotesFeminino.length)
 
-    return [{sexo: "Masculino", pesoMedio: pesoMedioMasculino}, {sexo: "Feminino", pesoMedio: pesoMedioFeminino}]
+    return [{sexo: "Masculino", pesoMedio: pesoMedioMasculino.toFixed(2)}, {sexo: "Feminino", pesoMedio: pesoMedioFeminino.toFixed(2)}]
 }
 
 export default pesoMedioSexoService;

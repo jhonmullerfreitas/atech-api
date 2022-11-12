@@ -32,7 +32,7 @@ const morteMediaSexoService = () => {
     const morteMediaMasculino = totalMorteMasculino / (morteLotesMasculino.length)
     const morteMediaFeminino = totalMorteFeminino / (morteLotesFeminino.length)
 
-    return [{sexo: "Masculino", morteMedia: morteMediaMasculino}, {sexo: "Feminino", morteMedia: morteMediaFeminino}]
+    return [{sexo: "Masculino", morteMedia: morteMediaMasculino.toFixed(2)}, {sexo: "Feminino", morteMedia: morteMediaFeminino.toFixed(2)}]
 
 }
 
