@@ -13,7 +13,6 @@ const app = express();
 app.use(cors())
 app.use(express.json());
 
-
 app.use("/lotes", lotesRouter);
 app.use("/pesos", pesosRouter);
 app.use("/mortalidades", mortalidadeRouter);
@@ -21,7 +20,6 @@ app.use("/conversao-alimentar", caRouter)
 app.use("/peso-medio-sexo", pesoMedioSexoRouter)
 app.use("/morte-media-sexo", morteMediaSexoRouter)
 app.use("/info-granja", infoGranjaRouter)
-
 
 const port = 3001;
 app.listen(port, () => {
